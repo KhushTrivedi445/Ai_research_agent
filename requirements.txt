@@ -1,0 +1,9 @@
+langgraph
+langchain-core
+langchain-groq
+langchain-tavily
+python-dotenv
+requests
+streamlit
+pyjwt
+bcrypt
