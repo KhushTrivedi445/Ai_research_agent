@@ -117,3 +117,6 @@ conversation history, and streaming responses.
 ## Tech stack
 
 `LangGraph` · `LangChain` · `Groq` · `Tavily` · `Open-Meteo` · `Streamlit` · `SQLite` · `PyJWT` · `bcrypt`
+
+
+Author: Khush Trivedi
